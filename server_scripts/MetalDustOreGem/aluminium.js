@@ -173,15 +173,7 @@ fluidpipetiny.forEach(inter => {event.recipes.createSequencedAssembly([Item.of(`
 
 
 let fluidpipesmall = [`gtceu:plate.${material}`]
-fluidpipesmall.forEach(inter => {
-event.recipes.createSequencedAssembly(
-    [
-        Item.of(`gtceu:small.${material}`).withChance(100)
-    ], `gtceu:plate.${material}`, [
-        event.recipes.createDeploying(`${inter}`, [`${inter}`, `#forge:tool/wrench`]).keepHeldItem(true),
-        event.recipes.createDeploying(`${inter}`, [`${inter}`, `#forge:tool/hammer`]).keepHeldItem(true),
-        event.recipes.createPressing(`${inter}`, `${inter}`)
-    ]).transitionalItem(`${inter}`).loops(1)})
+fluidpipesmall.forEach(inter => {event.recipes.createSequencedAssembly([Item.of(`gtceu:small.${material}`).withChance(100)], `gtceu:plate.${material}`, [event.recipes.createDeploying(`${inter}`, [`${inter}`, `#forge:tool/wrench`]).keepHeldItem(true),event.recipes.createDeploying(`${inter}`, [`${inter}`, `#forge:tool/hammer`]).keepHeldItem(true),event.recipes.createPressing(`${inter}`, `${inter}`)]).transitionalItem(`${inter}`).loops(1)})
 
 
 let fluidpipenormal = [`gtceu:plate.${material}`]
