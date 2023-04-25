@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BGB",
+    "GCG",
+    "BGB"
+  ],
+  "key": {
+    "B": {
+      "tag": "forge:plates/copper"
+    },
+    "C": {
+      "item": "create:portable_fluid_interface"
+    },
+    "G": {
+      "tag": "forge:glass"
+    }
+  },
+  "result": {
+    "item": "create:fluid_tank"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "conditions": [
+  {
+    "modid": "tfc",
+    "type": "forge:mod_loaded"
+  }
+],
+
+  "__comment__": "This file was automatically created by mcresources",
+  "replace": false,
+  "values": [
+    "tfc:metal/sheet/gold"
+  ]
+}

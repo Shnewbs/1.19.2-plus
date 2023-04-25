@@ -1,0 +1,21 @@
+{
+  "conditions": [
+  {
+    "modid": "tfc",
+    "type": "forge:mod_loaded"
+  }
+],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "forge:plant2dye/light_gray"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:light_gray_dye",
+      "amount": 4
+    }
+  ],
+  "processingTime": 250
+}

@@ -1,0 +1,5 @@
+
+{"type":"immersiveengineering:metal_press",
+"energy":2400,"input":{"item":"gtceu:plate.aluminium"},
+"mold":"immersiveengineering:mold_rod",
+"result":{"base_ingredient":{"item":"gtceu:stick.aluminium"},"count":1}}

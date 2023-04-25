@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "CDC",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:redstone"
+    },
+    "D": {
+      "item": "create:andesite_casing"
+    },
+    "C": {
+      "item": "create:shaft"
+    }
+  },
+  "result": {
+    "item": "create:clutch"
+  }
+}

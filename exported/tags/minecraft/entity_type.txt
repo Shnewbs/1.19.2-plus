@@ -1,0 +1,110 @@
+To refresh this file, delete it and run /reload command again! Last updated: Mar 31, 2023, 3:22:09 PM
+
+#minecraft:axolotl_always_hostiles
+- minecraft:drowned (from Default)
+- minecraft:guardian (from Default)
+- minecraft:elder_guardian (from Default)
+
+#minecraft:freeze_immune_entity_types
+- minecraft:stray (from Default)
+- minecraft:polar_bear (from Default)
+- minecraft:snow_golem (from Default)
+- minecraft:wither (from Default)
+
+#beyond_earth:no_oxygen_needed
+- beyond_earth:alien (from Beyond-Earth-1.19.2-6.4c.jar)
+- beyond_earth:alien_zombie (from Beyond-Earth-1.19.2-6.4c.jar)
+- beyond_earth:star_crawler (from Beyond-Earth-1.19.2-6.4c.jar)
+- beyond_earth:pygro (from Beyond-Earth-1.19.2-6.4c.jar)
+- beyond_earth:pygro_brute (from Beyond-Earth-1.19.2-6.4c.jar)
+- beyond_earth:mogler (from Beyond-Earth-1.19.2-6.4c.jar)
+- beyond_earth:martian_raptor (from Beyond-Earth-1.19.2-6.4c.jar)
+
+#minecraft:impact_projectiles
+- #minecraft:arrows (from Default)
+- minecraft:snowball (from Default)
+- minecraft:fireball (from Default)
+- minecraft:small_fireball (from Default)
+- minecraft:egg (from Default)
+- minecraft:trident (from Default)
+- minecraft:dragon_fireball (from Default)
+- minecraft:wither_skull (from Default)
+
+#minecraft:beehive_inhabitors
+- minecraft:bee (from Default)
+- resourcefulbees:kitten_bee (from resourcefulbees:internals)
+- resourcefulbees:yeti_bee (from resourcefulbees:internals)
+- resourcefulbees:diamond_bee (from resourcefulbees:internals)
+- resourcefulbees:slimy_bee (from resourcefulbees:internals)
+- resourcefulbees:dungeon_bee (from resourcefulbees:internals)
+- resourcefulbees:red_mushroom_bee (from resourcefulbees:internals)
+- resourcefulbees:beeper_bee (from resourcefulbees:internals)
+- resourcefulbees:dragon_bee (from resourcefulbees:internals)
+- resourcefulbees:redstone_bee (from resourcefulbees:internals)
+- resourcefulbees:starry_bee (from resourcefulbees:internals)
+- resourcefulbees:rgbee_bee (from resourcefulbees:internals)
+- resourcefulbees:iron_bee (from resourcefulbees:internals)
+- resourcefulbees:netherite_bee (from resourcefulbees:internals)
+- resourcefulbees:nether_quartz_bee (from resourcefulbees:internals)
+- resourcefulbees:ender_bee (from resourcefulbees:internals)
+- resourcefulbees:warped_fungus_bee (from resourcefulbees:internals)
+- resourcefulbees:wither_bee (from resourcefulbees:internals)
+- resourcefulbees:gold_bee (from resourcefulbees:internals)
+- resourcefulbees:brown_mushroom_bee (from resourcefulbees:internals)
+- resourcefulbees:pigman_bee (from resourcefulbees:internals)
+- resourcefulbees:lapis_bee (from resourcefulbees:internals)
+- resourcefulbees:icy_bee (from resourcefulbees:internals)
+- resourcefulbees:crimson_fungus_bee (from resourcefulbees:internals)
+- resourcefulbees:abbee_bee (from resourcefulbees:internals)
+- resourcefulbees:oreo_bee (from resourcefulbees:internals)
+- resourcefulbees:skeleton_bee (from resourcefulbees:internals)
+- resourcefulbees:emerald_bee (from resourcefulbees:internals)
+- resourcefulbees:zombee_bee (from resourcefulbees:internals)
+- resourcefulbees:coal_bee (from resourcefulbees:internals)
+
+#minecraft:skeletons
+- minecraft:skeleton (from Default)
+- minecraft:stray (from Default)
+- minecraft:wither_skeleton (from Default)
+
+#ftbquests:no_loot_crates
+
+#minecraft:arrows
+- minecraft:arrow (from Default)
+- minecraft:spectral_arrow (from Default)
+
+#minecraft:frog_food
+- minecraft:slime (from Default)
+- minecraft:magma_cube (from Default)
+
+#minecraft:freeze_hurts_extra_types
+- minecraft:strider (from Default)
+- minecraft:blaze (from Default)
+- minecraft:magma_cube (from Default)
+
+#forge:bosses
+- minecraft:ender_dragon (from forge-1.19.2-43.2.8-universal.jar)
+- minecraft:wither (from forge-1.19.2-43.2.8-universal.jar)
+
+#minecraft:raiders
+- minecraft:evoker (from Default)
+- minecraft:pillager (from Default)
+- minecraft:ravager (from Default)
+- minecraft:vindicator (from Default)
+- minecraft:illusioner (from Default)
+- minecraft:witch (from Default)
+
+#minecraft:powder_snow_walkable_mobs
+- minecraft:rabbit (from Default)
+- minecraft:endermite (from Default)
+- minecraft:silverfish (from Default)
+- minecraft:fox (from Default)
+
+#minecraft:axolotl_hunt_targets
+- minecraft:tropical_fish (from Default)
+- minecraft:pufferfish (from Default)
+- minecraft:salmon (from Default)
+- minecraft:cod (from Default)
+- minecraft:squid (from Default)
+- minecraft:glow_squid (from Default)
+- minecraft:tadpole (from Default)

@@ -1,0 +1,21 @@
+{
+  "conditions": [
+  {
+    "modid": "tfc",
+    "type": "forge:mod_loaded"
+  }
+],
+
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "tag": "minecraft:wool"
+      }
+    ],
+    "results": [
+      {
+        "item": "tfc:wool_yarn"
+      }
+    ],
+    "processingTime": 100
+  }

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XPX",
+    " A ",
+    " C "
+  ],
+  "key": {
+    "P": {
+      "tag": "forge:plates/gold"
+    },
+    "C": {
+      "item": "minecraft:copper_block"
+    },
+    "A": {
+      "item": "create:andesite_alloy"
+    },
+    "X": {
+      "item": "create:cogwheel"
+    }
+  },
+  "result": {
+    "item": "create:steam_engine"
+  }
+}

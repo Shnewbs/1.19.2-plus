@@ -1,0 +1,25 @@
+{
+  "conditions": [
+  {
+    "modid": "tfc",
+    "type": "forge:mod_loaded"
+  }
+],
+
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "forge:glass/colorless"
+    },
+    {
+      "fluid": "tfc:yellow_dye",
+      "nbt": {},
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:yellow_stained_glass"
+    }
+  ]
+}

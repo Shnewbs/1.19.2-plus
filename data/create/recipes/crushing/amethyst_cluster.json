@@ -1,0 +1,26 @@
+{
+  "conditions": [
+  {
+    "modid": "tfc",
+    "type": "forge:mod_loaded"
+  }
+],
+
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "tfc:ore/amethyst"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:powder/amethyst",
+      "count": 4
+    },
+    {
+      "item": "tfc:powder/amethyst",
+      "chance": 0.5
+    }
+  ],
+  "processingTime": 150
+}

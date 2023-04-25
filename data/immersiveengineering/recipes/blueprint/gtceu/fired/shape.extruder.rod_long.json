@@ -1,0 +1,7 @@
+{"type":"immersiveengineering:blueprint",
+"category":"molds",
+"inputs":[{"base_ingredient":{"item":"kubejs:fired.clay.empty.casting.plate"},
+"count":1},
+{"tag":"forge:tool/file"}],
+"result":{"item":"kubejs:fired.clay.casting.rod_long"}}
+

@@ -1,0 +1,24 @@
+{
+  "conditions": [
+  {
+    "modid": "gtceu",
+    "type": "forge:mod_loaded"
+  }
+],
+
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kubejs:fired.clay.casting.pipe.normal"
+    },
+    {
+      "fluidTag": "gtceu:copper",
+      "amount": 432
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:cake"
+    }
+  ]
+}

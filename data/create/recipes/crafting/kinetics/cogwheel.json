@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "AIA",
+    "   "
+  ],
+  "key": {
+    "I": {
+      "tag": "minecraft:planks"
+    },
+    "A": {
+      "item": "create:shaft"
+    }
+  },
+  "result": {
+    "item": "create:cogwheel"
+  }
+}
+

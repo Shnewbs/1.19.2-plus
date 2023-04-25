@@ -1,0 +1,29 @@
+{
+  "conditions": [
+  {
+    "modid": "gtceu",
+    "type": "forge:mod_loaded"
+  }
+],
+
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B",
+    "C",
+    "I"
+  ],
+  "key": {
+    "I": {
+      "item": "gtceu:circuit_board.basic"
+    },
+    "B": {
+      "item": "minecraft:lever"
+    },
+    "C": {
+      "item": "create:railway_casing"
+    }
+  },
+  "result": {
+    "item": "create:controls"
+  }
+}

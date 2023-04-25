@@ -1,0 +1,24 @@
+{
+  "conditions": [
+  {
+    "modid": "tfc",
+    "type": "forge:mod_loaded"
+  }
+],
+
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ASA"
+  ],
+  "key": {
+    "S": {
+      "tag": "minecraft:wool"
+    },
+    "A": {
+      "item": "tfc:metal/rod/brass"
+    }
+  },
+  "result": {
+    "item": "create:attribute_filter"
+  }
+}

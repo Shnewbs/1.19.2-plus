@@ -1,0 +1,86 @@
+To refresh this file, delete it and run /reload command again! Last updated: Mar 31, 2023, 3:22:09 PM
+
+#forge:steam
+- bigreactors:steam (from ExtremeReactors2-1.19.2-2.0.62.jar)
+- bigreactors:steam_flowing (from ExtremeReactors2-1.19.2-2.0.62.jar)
+
+#forge:crude_oil
+- beyond_earth:oil (from Beyond-Earth-1.19.2-6.4c.jar)
+- beyond_earth:flowing_oil (from Beyond-Earth-1.19.2-6.4c.jar)
+
+#forge:yellorium
+- bigreactors:yellorium (from ExtremeReactors2-1.19.2-2.0.62.jar)
+- bigreactors:yellorium_flowing (from ExtremeReactors2-1.19.2-2.0.62.jar)
+
+#minecraft:water
+- minecraft:water (from Default)
+- minecraft:flowing_water (from Default)
+- createaddition:flowing_seed_oil (from createaddition-1.19.2-20230315b.jar)
+- createaddition:seed_oil (from createaddition-1.19.2-20230315b.jar)
+
+#forge:milk
+- minecraft:milk? (from forge-1.19.2-43.2.8-universal.jar)
+- minecraft:flowing_milk? (from forge-1.19.2-43.2.8-universal.jar)
+
+#forge:tea
+- create:flowing_tea (from create-1.19.2-0.5.0.i.jar)
+- create:tea (from create-1.19.2-0.5.0.i.jar)
+
+#forge:biofuel
+- createaddition:flowing_bioethanol (from createaddition-1.19.2-20230315b.jar)
+- createaddition:bioethanol (from createaddition-1.19.2-20230315b.jar)
+
+#beyond_earth:vehicle_fuel
+- beyond_earth:fuel (from Beyond-Earth-1.19.2-6.4c.jar)
+- beyond_earth:flowing_fuel (from Beyond-Earth-1.19.2-6.4c.jar)
+
+#forge:plantoil
+- createaddition:flowing_seed_oil (from createaddition-1.19.2-20230315b.jar)
+- createaddition:seed_oil (from createaddition-1.19.2-20230315b.jar)
+
+#forge:magentite
+- bigreactors:magentite (from ExtremeReactors2-1.19.2-2.0.62.jar)
+- bigreactors:magentite_flowing (from ExtremeReactors2-1.19.2-2.0.62.jar)
+
+#minecraft:lava
+- minecraft:lava (from Default)
+- minecraft:flowing_lava (from Default)
+
+#forge:rossinite
+- bigreactors:rossinite (from ExtremeReactors2-1.19.2-2.0.62.jar)
+- bigreactors:rossinite_flowing (from ExtremeReactors2-1.19.2-2.0.62.jar)
+
+#create:bottomless/deny
+
+#forge:chocolate
+- create:flowing_chocolate (from create-1.19.2-0.5.0.i.jar)
+- create:chocolate (from create-1.19.2-0.5.0.i.jar)
+
+#create:bottomless/allow
+- minecraft:water (from create-1.19.2-0.5.0.i.jar)
+- minecraft:lava (from create-1.19.2-0.5.0.i.jar)
+
+#forge:honey
+- resourcefulbees:honey (from resourcefulbees-1.0.0-alpha.15.jar)
+- create:flowing_honey (from create-1.19.2-0.5.0.i.jar)
+- create:honey (from create-1.19.2-0.5.0.i.jar)
+- resourcefulbees:starry_honey (from resourcefulbees:internals)
+- resourcefulbees:catnip_honey (from resourcefulbees:internals)
+- resourcefulbees:catnip_honey_flowing (from resourcefulbees:internals)
+- resourcefulbees:rainbow_honey_flowing (from resourcefulbees:internals)
+- resourcefulbees:rainbow_honey (from resourcefulbees:internals)
+- resourcefulbees:starry_honey_flowing (from resourcefulbees:internals)
+
+#forge:creosote
+
+#forge:verderium
+- bigreactors:verderium (from ExtremeReactors2-1.19.2-2.0.62.jar)
+- bigreactors:verderium_flowing (from ExtremeReactors2-1.19.2-2.0.62.jar)
+
+#forge:cyanite
+- bigreactors:cyanite (from ExtremeReactors2-1.19.2-2.0.62.jar)
+- bigreactors:cyanite_flowing (from ExtremeReactors2-1.19.2-2.0.62.jar)
+
+#forge:blutonium
+- bigreactors:blutonium (from ExtremeReactors2-1.19.2-2.0.62.jar)
+- bigreactors:blutonium_flowing (from ExtremeReactors2-1.19.2-2.0.62.jar)

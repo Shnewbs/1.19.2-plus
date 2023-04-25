@@ -1,0 +1,21 @@
+{
+  "conditions": [
+  {
+    "modid": "tfc",
+    "type": "forge:mod_loaded"
+  }
+],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "tfc:food/sugarcane"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:sugar",
+      "amount": 4
+    }
+  ],
+  "processingTime": 250
+}

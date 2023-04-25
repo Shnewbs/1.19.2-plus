@@ -1,0 +1,28 @@
+{
+  "conditions": [
+  {
+    "modid": "gtceu",
+    "type": "forge:mod_loaded"
+  }
+],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I",
+    "S",
+    "P"
+  ],
+  "key": {
+    "P": {
+      "item": "gtceu:circuit_board.basic"
+    },
+    "S": {
+      "item": "create:fluid_pipe"
+    },
+    "I": {
+      "tag": "forge:plates/brass"
+    }
+  },
+  "result": {
+    "item": "create:smart_fluid_pipe"
+  }
+}

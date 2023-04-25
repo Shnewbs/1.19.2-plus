@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PPP",
+    "CCC"
+  ],
+  "key": {
+    "P": {
+      "tag": "forge:plates/cast_iron"
+    },
+    "C": {
+      "item": "forge:ingots/cast_iron"
+    }
+  },
+  "result": {
+    "item": "create:metal_girder",
+    "count": 8
+  }
+}

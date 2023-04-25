@@ -1,0 +1,21 @@
+{
+  "conditions": [
+  {
+    "modid": "tfc",
+    "type": "forge:mod_loaded"
+  }
+],
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "forge:plant2dye/white"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:white_dye",
+      "amount": 4
+    }
+  ],
+  "processingTime": 250
+}

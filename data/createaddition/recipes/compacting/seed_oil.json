@@ -1,0 +1,14 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "tfc:seeds"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "createaddition:seed_oil",
+      "amount": 100
+    }
+  ]
+}

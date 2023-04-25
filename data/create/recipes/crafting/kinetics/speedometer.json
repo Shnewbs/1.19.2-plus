@@ -1,0 +1,30 @@
+{
+  "conditions": [
+  {
+    "modid": "gtceu",
+    "type": "forge:mod_loaded"
+  }
+],
+
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C",
+    "F",
+    "A"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:compass"
+    },
+    "A": {
+      "item": "create:andesite_casing"
+    },
+    "F": {
+      "item": "gtceu:circuit_board.basic"
+    }
+  },
+  "result": {
+    "item": "create:speedometer"
+  }
+}
+

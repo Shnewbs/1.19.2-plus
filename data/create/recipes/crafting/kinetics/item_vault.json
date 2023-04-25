@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BGB",
+    "GCG",
+    "BGB"
+  ],
+  "key": {
+    "B": {
+      "tag": "forge:plates/cast_iron"
+    },
+    "C": {
+      "item": "create:portable_storage_interface"
+    },
+    "G": {
+      "tag": "forge:glass"
+    }
+  },
+  "result": {
+    "item": "create:item_vault"
+  }
+}

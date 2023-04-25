@@ -1,0 +1,6 @@
+{"type":"immersiveengineering:blueprint",
+"category":"molds",
+"inputs":[{"base_ingredient":{"tag":"forge:plates/cast_iron"},
+"count":3},
+{"tag":"forge:tool/wire_cutter"}],
+"result":{"item":"gtceu:shape.empty"}}

@@ -1,0 +1,7 @@
+        {
+            "parent": "item/generated",
+            "textures": {
+                "layer0": "kubejs:item/metal_in_molds/shape.mold.pipe.tiny",
+                "layer1": "kubejs:item/metal_in_molds/hot/shape.mold.pipe.tiny"
+            }
+        }

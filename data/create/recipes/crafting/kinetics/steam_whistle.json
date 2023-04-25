@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P",
+    "P",
+    "C"
+  ],
+  "key": {
+    "P": {
+      "tag": "forge:plates/gold"
+    },
+    "C": {
+      "tag": "forge:plates/copper"
+    }
+  },
+  "result": {
+    "item": "create:steam_whistle"
+  }
+}

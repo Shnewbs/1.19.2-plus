@@ -1,0 +1,26 @@
+{
+    "conditions": [
+    {
+      "modid": "tfc",
+      "type": "forge:mod_loaded"
+    }
+  ],
+
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:amethyst_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "tfc:gem/amethyst",
+      "count": 3
+    },
+    {
+      "item": "tfc:gem/amethyst",
+      "chance": 0.5
+    }
+  ],
+  "processingTime": 150
+}

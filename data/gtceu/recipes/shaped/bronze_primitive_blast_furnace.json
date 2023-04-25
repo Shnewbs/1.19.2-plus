@@ -1,0 +1,38 @@
+{
+  "type": "extendedcrafting:shaped_table",
+  "powerCost": 500000,
+  "craftingTime": 500000,
+  "key": {
+    "B": {
+      "item": "gtceu:casing_primitive_bricks"
+    },
+    "P": {
+      "tag": "forge:plates/iron"
+    },
+    "R": {
+      "tag": "forge:sticks/iron"
+    },
+    "S": {
+      "tag": "forge:screws/iron"
+    },
+    "d": {
+      "tag": "forge:tool/screwdriver"
+    },
+    "h": {
+      "tag": "forge:tool/hammer"
+    },
+    "X": {
+      "item": "gtceu:casing_primitive_bricks"
+    }
+  },    
+  "pattern": [
+    "XXXXX",
+    "XhRSX",
+    "XPBRX",
+    "XdRSX",
+    "XXXXX"
+  ],
+  "result": {
+    "item": "gtceu:primitive_blast_furnace"
+  }
+}

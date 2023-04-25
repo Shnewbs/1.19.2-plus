@@ -1,0 +1,6 @@
+{"type":"immersiveengineering:blueprint",
+"category":"molds",
+"inputs":[{"base_ingredient":{"item":"gtceu:shape.empty"},
+"count":1},
+{"tag":"forge:tool/wire_cutter"}],
+"result":{"item":"gtceu:shape.mold.name"}}

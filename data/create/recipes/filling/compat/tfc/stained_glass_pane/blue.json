@@ -1,0 +1,25 @@
+{
+  "conditions": [
+  {
+    "modid": "tfc",
+    "type": "forge:mod_loaded"
+  }
+],
+
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "tag": "forge:glass_pane/colorless"
+    },
+    {
+      "fluid": "tfc:blue_dye",
+      "nbt": {},
+      "amount": 60
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:blue_stained_glass_pane"
+    }
+  ]
+}

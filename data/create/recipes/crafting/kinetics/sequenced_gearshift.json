@@ -1,0 +1,24 @@
+{
+  "conditions": [
+  {
+    "modid": "gtceu",
+    "type": "forge:mod_loaded"
+  }
+],
+
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "create:brass_casing"
+    },
+    {
+      "item": "create:cogwheel"
+    },
+    {
+      "item": "gtceu:circuit_board.basic"
+    }
+  ],
+  "result": {
+    "item": "create:sequenced_gearshift"
+  }
+}

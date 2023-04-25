@@ -1,0 +1,29 @@
+{
+  "conditions": [
+  {
+    "modid": "tfc",
+    "type": "forge:mod_loaded"
+  }
+],
+
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B",
+    "C",
+    "I"
+  ],
+  "key": {
+    "B": {
+      "item": "create:andesite_casing"
+    },
+    "C": {
+      "item": "tfc:wool_cloth"
+    },
+    "I": {
+      "tag": "forge:plates/cast_iron"
+    }
+  },
+  "result": {
+    "item": "create:rope_pulley"
+  }
+}

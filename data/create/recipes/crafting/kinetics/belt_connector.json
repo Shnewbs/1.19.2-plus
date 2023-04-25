@@ -1,0 +1,14 @@
+{
+	"type":"createaddition:rolling",
+	"input": {
+      	"item": "minecraft:leather"
+	},
+	"result": {
+		"item": "create:belt_connector",
+		"count": 2
+	},
+	"conditions": [ {
+		"type": "forge:mod_loaded",
+		"modid": "createaddition"
+    } ]
+}

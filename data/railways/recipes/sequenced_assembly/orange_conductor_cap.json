@@ -1,0 +1,69 @@
+{
+  "conditions": [
+  {
+    "modid": "tfc",
+    "type": "forge:mod_loaded"
+  }
+],
+
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:orange_wool"
+  },
+  "loops": 1,
+  "results": [
+    {
+      "item": "railways:orange_conductor_cap"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:cutting",
+      "ingredients": [
+        {
+          "item": "railways:orange_incomplete_conductor_cap"
+        }
+      ],
+      "results": [
+        {
+          "item": "railways:orange_incomplete_conductor_cap"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "railways:orange_incomplete_conductor_cap"
+        },
+        {
+          "item": "create:precision_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "railways:orange_incomplete_conductor_cap"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "railways:orange_incomplete_conductor_cap"
+        },
+        {
+          "item": "tfc:wool_yarn"
+        }
+      ],
+      "results": [
+        {
+          "item": "railways:orange_incomplete_conductor_cap"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "railways:orange_incomplete_conductor_cap"
+  }
+}

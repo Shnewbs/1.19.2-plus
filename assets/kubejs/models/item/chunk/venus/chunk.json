@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "kubejs:item/raw/venus/chunk",
+        "layer1": "kubejs:item/raw/venus/chunk_overlay"
+    }
+}

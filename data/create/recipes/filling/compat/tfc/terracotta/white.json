@@ -1,0 +1,25 @@
+{
+  "conditions": [
+  {
+    "modid": "tfc",
+    "type": "forge:mod_loaded"
+  }
+],
+
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "minecraft:terracotta"
+    },
+    {
+      "fluid": "tfc:white_dye",
+      "nbt": {},
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:white_terracotta"
+    }
+  ]
+}

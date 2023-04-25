@@ -1,0 +1,32 @@
+{
+  "conditions": [
+  {
+    "modid": "gtceu",
+    "type": "forge:mod_loaded"
+  }
+],
+
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LXL",
+    "T",
+    "N"
+  ],
+  "key": {
+    "L": {
+      "item": "create:polished_rose_quartz"
+    },
+    "X": {
+      "item": "gtceu:component.glass.tube"
+    },
+    "T": {
+      "item": "gtceu:circuit_board.basic"
+    },
+    "N": {
+      "tag": "forge:plates/cast_iron"
+    }
+  },
+  "result": {
+    "item": "create:electron_tube"
+  }
+}
