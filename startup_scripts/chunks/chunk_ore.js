@@ -6,7 +6,7 @@ StartupEvents.registry(`item`, event => {
 	function capfirst(string) {
 		return string[0].toUpperCase() + string.slice(1);
 	  }
-	var TFCStoneTypes = [`andesite`,`basalt`,`chalk`,`chert`,`claystone`,`conglomerate`,`dacite`,`diorite`,`dolomite`,`gabbro`,`gneiss`,`granite`,`limestone`,`marble`,`phyllite`,`quartzite`,`rhyolite`,`schist`,`shale`,`slate`,`venus`,`mars`,`moon`, `mercury` `netherrack` `endstone`]
+	var TFCStoneTypes = [`andesite`,`basalt`,`chalk`,`chert`,`claystone`,`conglomerate`,`dacite`,`diorite`,`dolomite`,`gabbro`,`gneiss`,`granite`,`limestone`,`marble`,`phyllite`,`quartzite`,`rhyolite`,`schist`,`shale`,`slate`,`venus`,`mars`,`moon`, `mercury`, `netherrack`, `endstone`]
 	
 	TFCStoneTypes.forEach(stonetype => {
 		let displayMaterial = capfirst(`${stonetype}`)
